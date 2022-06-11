@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mobinat.
 - 👀 I’m interested in biophysics.
-- 🌱 I’m currently learning to study plant cell mechanotransduction.
+- 🌱 I’m currently studying plant cell mechanotransduction.
 - 💞️ I’m looking to collaborate on plant's graviception virtual cell model simulations.
 - 📫 How to reach me : toosianmobina@gmail.com
 
